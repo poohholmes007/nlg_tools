@@ -5,7 +5,7 @@
 This file contains text processing tools for the general concept of searching.
 
 Functions:
-* check symmetry: whether a locale aligns with en in key/value pairs
-* extract value from key: extraction of value from a given list of keys
-* replace pattern of files: replacement of a given pattern in all relevant files
-* list url update files: list of latest workflows in all relevant files
+* check_symmetry: check symmetry of key/value pairs between a given locale and the English version
+* extract_value_from_key: extract values from a given list of keys
+* replace_pattern_of_files: replace a given pattern with a given string in all relevant files
+* list_url_update_files: list latest workflows in all relevant files
